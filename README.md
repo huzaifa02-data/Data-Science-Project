@@ -24,6 +24,9 @@ High - 1 laks plus.
 Medium - Between 50 thousand to 1 lakh.
 low - 50 thousand.
 
+**Deployment Link:**
+https://mobile-price-predictor-ysyzcfsmzjdjqpefrrsgfk.streamlit.app/
+
 **📈 Results**
 Successfully predicted mobile phone price categories.
 Feature engineering improved classification.
