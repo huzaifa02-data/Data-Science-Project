@@ -23,6 +23,7 @@ The gui rar file upload of this project that shows the range of price as low,med
 High - 1 laks plus.
 Medium - Between 50 thousand to 1 lakh.
 low - 50 thousand.
+
 **📈 Results**
 Successfully predicted mobile phone price categories.
 Feature engineering improved classification.
