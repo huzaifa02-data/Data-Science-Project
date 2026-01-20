@@ -18,6 +18,11 @@ pandas, numpy — data manipulation.
 matplotlib, seaborn — visualization.
 sklearn — ML models & model evaluation.
 
+**GUI Interface:**
+The gui rar file upload of this project that shows the range of price as low,medium and high as (0,1,2) respectivily and user can easy manage their classification need of the mobile all in this gui and pridict the range of price as :
+High - 1 laks plus.
+Medium - Between 50 thousand to 1 lakh.
+low - 50 thousand.
 **📈 Results**
 Successfully predicted mobile phone price categories.
 Feature engineering improved classification.
